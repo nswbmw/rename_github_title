@@ -14,6 +14,12 @@ nswbmw/rename_github_title: For someone who open soooooo many github repos.
 
 rename_github_title
 
+### How To Use
+
+1. download `rename_github_title.crx`
+2. drag to `chrome://extensions/`
+3. done!
+
 ### License
 
 MIT
