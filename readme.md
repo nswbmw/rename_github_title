@@ -16,9 +16,8 @@ rename_github_title
 
 ### How To Use
 
-1. download `rename_github_title.crx`
-2. drag to `chrome://extensions/`
-3. done!
+1. open chrome app store, search `Rename GitHub Title`.
+2. install it & enjoy!
 
 ### License
 
